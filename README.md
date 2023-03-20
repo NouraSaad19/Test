@@ -31,6 +31,7 @@ This document describes how you can use the functions in the authentication temp
 
 
 **4)Sign in by phone number:**
+
 *4.1)Request a mobile  verification:*
 |Method|verifyPhone()|
 |---|---|
