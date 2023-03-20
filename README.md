@@ -38,3 +38,17 @@ This document describes how you can use the functions in the authentication temp
 **Request parmeters:**
 |Parmeter name|Type|
 |phone|String|
+
+*4.2)Confirm a mobile verification:*
+|Method|verifyOTP()|
+|---|---|
+**Request parmeters:**
+|Parmeter name|Type|
+|otp|String|
+
+**5)Resend OTP:**
+|Method|resendOTP()|
+|---|---|
+**Request parmeters:**
+|Parmeter name|Type|
+|phone|String|
