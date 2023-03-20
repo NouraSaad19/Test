@@ -104,6 +104,7 @@ This document describes how you can use the functions in the authentication temp
 
 
 **12)Update user image in profile:**
+
 *12.1)Take photo from gallery:*
 |Method|TakePhoto()|
 |---|---|
