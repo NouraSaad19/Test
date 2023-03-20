@@ -52,3 +52,11 @@ This document describes how you can use the functions in the authentication temp
 **Request parmeters:**
 |Parmeter name|Type|
 |phone|String|
+
+**6)Sign in by google:**
+|Method|loginUsingGoogle()|
+|---|---|
+**Request parmeters:**
+|Parmeter name|Type|
+|||
+
