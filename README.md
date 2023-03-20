@@ -6,4 +6,4 @@ This document describes how you can use the functions in the authentication temp
 
 |**User sign up by email & password:**|
 | - | | - |
-
+|Method|<p>() </p><p>signUpUsingFirebase</p>|
