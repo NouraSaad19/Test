@@ -60,3 +60,60 @@ This document describes how you can use the functions in the authentication temp
 |Parmeter name|Type|
 |_|_|
 
+
+
+**7)Sign out:**
+|Method|signOut()|
+|---|---|
+**Request parmeters:**
+|Parmeter name|Type|
+|_|_|
+
+**8)Change password:**
+|Method|changePassword()|
+|---|---|
+**Request parmeters:**
+|Parmeter name|Type|
+|oldPassword|String|
+|newPassword|String|
+
+
+**9)Get the current user name:**
+|Method|getNameField()|
+|---|---|
+**Request parmeters:**
+|Parmeter name|Type|
+|_|_|
+
+
+**10)Get the current user image:**
+|Method|getImageField()|
+|---|---|
+**Request parmeters:**
+|Parmeter name|Type|
+|_|_|
+
+
+**11)Update user name in profile:**
+|Method|updateName()|
+|---|---|
+**Request parmeters:**
+|Parmeter name|Type|
+|updateName|String|
+
+
+
+**12)Update user image in profile:**
+*12.1)Take photo from gallery:*
+|Method|TakePhoto()|
+|---|---|
+**Request parmeters:**
+|Parmeter name|Type|
+|Course|ImageSource|
+
+*12.2Update image in profile:*
+|Method|updateImageProfile()|
+|---|---|
+**Request parmeters:**
+|Parmeter name|Type|
+|_|_|
