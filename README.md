@@ -18,3 +18,12 @@ This document describes how you can use the functions in the authentication temp
 **Request parmeters:**
 |email|String|
 |password|String|
+
+
+
+**3)Reset password by email:**
+|Method|resetPassword()|
+|---|---|
+**Request parmeters:**
+|Parmeter name|Type|
+|email|String|
