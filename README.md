@@ -5,7 +5,6 @@ This document describes how you can use the functions in the authentication temp
 
 
 **1)User sign up by email & password:**
-**Request parmeters:**
 |Method|signUpUsingFirebase()|
 |---|---|
 **Request parmeters:**
@@ -28,3 +27,13 @@ This document describes how you can use the functions in the authentication temp
 **Request parmeters:**
 |Parmeter name|Type|
 |email|String|
+
+
+
+**4)Sign in by phone number:**
+*4.1)Request a mobile  verification:*
+|Method|verifyPhone()|
+|---|---|
+**Request parmeters:**
+|Parmeter name|Type|
+|phone|String|
