@@ -10,3 +10,10 @@ This document describes how you can use the functions in the authentication temp
 **Request parmeters:**
 |Parmeter name|Type|
 |userModel|UserModel|
+
+**2)User sign in by email & password:**
+|Method|loginUsingFirebase()|
+|---|---|
+**Request parmeters:**
+|email|String|
+|password|String|
